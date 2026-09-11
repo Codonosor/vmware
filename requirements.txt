@@ -1,0 +1,6 @@
+mcp
+pyvmomi
+requests
+hpOneView
+python-dotenv
+urllib3
